@@ -1,4 +1,4 @@
-Lab
+lab
 ===
 
 Espaço para aprender e compartilhar conhecimento, sempre que possível publicarei experimentos utilizando bibliotecas e tendências do mundo web  que me chamam a atenção e que possam enriquecer os trabalhos oferecidos aos nossos clientes.
